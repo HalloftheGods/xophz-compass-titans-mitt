@@ -24,7 +24,7 @@ Bring down heavy objects with ease using this bulk editor.
 1. Ensure **Xophz COMPASS** is installed and active.
 2. Upload `xophz-compass-titans-mitt` to `/wp-content/plugins/`.
 3. Activate through the Plugins menu.
-4. Access via the COMPASS dashboard → **Titan's Mitt**.
+4. Access via the My Compass dashboard → **Titan's Mitt**.
 
 ## PHP Class Map
 
