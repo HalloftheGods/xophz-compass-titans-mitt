@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Category:          Wizard's Tower
  * Plugin Name:       Xophz Titan's Gloves
- * Plugin URI:        http://www.mycompassconsulting.com/
+ * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-titans-mitt
  * Description:       Crush your site's largest objects or lift them into the cloud.
  * Version:           26.4.24
  * Author:            Hall of the Gods, Inc.
