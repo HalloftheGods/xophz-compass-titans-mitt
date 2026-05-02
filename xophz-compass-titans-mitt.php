@@ -18,7 +18,7 @@
  * Plugin Name:       Xophz Titan's Gloves
  * Plugin URI:        https://github.com/HalloftheGods/xophz-compass-titans-mitt
  * Description:       Crush your site's largest objects or lift them into the cloud.
- * Version:           26.4.28
+ * Version:           26.5.2.703
  * Author:            Hall of the Gods, Inc.
  * Author URI:        http://www.hallofthegods.com/
  * License:           GPL-2.0+
@@ -38,7 +38,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'XOPHZ_COMPASS_TITANS_MITT_VERSION', '26.4.28' );
+define( 'XOPHZ_COMPASS_TITANS_MITT_VERSION', '26.5.2.703' );
 
 /**
  * The code that runs during plugin activation.
